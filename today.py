@@ -1,3 +1,4 @@
+"""A module computing buddy pair names for the day"""
 '''
 This is the module docstring
 '''
